@@ -2,19 +2,19 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Katalon Trello Power-Up</title>
+  <title>Katalon Power-Up</title>
   <script src="https://p.trellocdn.com/power-up.min.js"></script>
+  <!-- 🟢 هنا بنحط client.js -->
+  <script src="client.js"></script>
 </head>
 <body>
   <h2>🔬 Katalon Test Report</h2>
   <div id="content">Test results will appear here.</div>
 
-  <script src="client.js">
+  <!-- ده كود JavaScript الداخلي بتاع الصفحة -->
+  <script>
     const t = TrelloPowerUp.iframe();
     document.getElementById('content').innerText = 'Tests Loaded ✅';
   </script>
-
-
 </body>
-
 </html>
