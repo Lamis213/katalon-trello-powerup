@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Katalon Trello Power-Up</title>
+  <script src="https://p.trellocdn.com/power-up.min.js"></script>
+</head>
+<body>
+  <h2>🔬 Katalon Test Report</h2>
+  <div id="content">Test results will appear here.</div>
+
+  <script>
+    const t = TrelloPowerUp.iframe();
+    document.getElementById('content').innerText = 'Tests Loaded ✅';
+  </script>
+</body>
+</html>
