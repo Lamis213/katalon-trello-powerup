@@ -1,0 +1,22 @@
+[
+  {
+    "name": "InsertUserTest",
+    "status": "Passed"
+  },
+  {
+    "name": "DeleteUserTest",
+    "status": "Failed"
+  },
+  {
+    "name": "Follow a User",
+    "status": "Passed"
+  },
+  {
+    "name": "inserting a comment with a missing post_id",
+    "status": "Passed"
+  },
+  {
+    "name": "inserting a follower without a follower_id",
+    "status": "Failed"
+  }
+]
