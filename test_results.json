@@ -26,5 +26,9 @@
     {
         "name": "Add a user without a email",
         "status": "Faild"
+    },
+    {
+        "name": "SelectUserTest",
+        "status": "Passed"
     }
 ]
