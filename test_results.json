@@ -22,5 +22,9 @@
     {
         "name": "Add a User without a username",
         "status": "Faild"
+    },
+    {
+        "name": "Add a user without a email",
+        "status": "Faild"
     }
 ]
