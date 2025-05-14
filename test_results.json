@@ -18,5 +18,9 @@
     {
         "name": "Add a comment with mising value",
         "status": "Faild"
+    },
+    {
+        "name": "Add a User without a username",
+        "status": "Faild"
     }
 ]
