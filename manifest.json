@@ -4,7 +4,7 @@
   "permissions": ["read", "write", "account"],
   "capabilities": {
     "card-buttons": {
-      "url": "https://softwarets.netlify.app/index.html",
+      "url": "index.html",
       "icon": "https://cdn-icons-png.flaticon.com/512/906/906175.png",
       "text": "Open Katalon Report"
     }
