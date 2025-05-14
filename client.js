@@ -1,3 +1,5 @@
+var Promise = TrelloPowerUp.Promise;
+
 TrelloPowerUp.initialize({
   'card-buttons': function(t, options) {
     return [{
@@ -6,8 +8,8 @@ TrelloPowerUp.initialize({
       callback: function(t) {
         return t.popup({
           title: 'Katalon Report',
-          url: './index.html',
-          height: 300
+          url: 'index.html',
+          height: 400
         });
       }
     }];
