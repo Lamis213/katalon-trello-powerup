@@ -30,5 +30,9 @@
     {
         "name": "SelectUserTest",
         "status": "Passed"
+    },
+    {
+        "name": "UpdatetUserTest",
+        "status": "Passed"
     }
 ]
