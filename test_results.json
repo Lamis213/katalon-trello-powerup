@@ -10,5 +10,9 @@
     {
         "name": "Add a comment",
         "status": "Passed"
+    },
+    {
+        "name": "Add a like",
+        "status": "Passed"
     }
 ]
