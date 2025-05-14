@@ -6,5 +6,9 @@
     {
         "name": "DeletetUserTest",
         "status": "Passed"
+    },
+    {
+        "name": "Add a comment",
+        "status": "Passed"
     }
 ]
