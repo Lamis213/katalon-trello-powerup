@@ -2,5 +2,9 @@
     {
         "name": "InsertUserTest",
         "status": "Passed"
+    },
+    {
+        "name": "DeletetUserTest",
+        "status": "Passed"
     }
 ]
