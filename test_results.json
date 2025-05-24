@@ -6,5 +6,9 @@
     {
         "name": "InsertUserTest",
         "status": "Passed"
+    },
+    {
+        "name": "Follow a user",
+        "status": "Passed"
     }
 ]
