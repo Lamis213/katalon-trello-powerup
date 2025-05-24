@@ -10,5 +10,9 @@
     {
         "name": "Follow a user",
         "status": "Passed"
+    },
+    {
+        "name": "Add a comment with mising value",
+        "status": "Faild"
     }
 ]
